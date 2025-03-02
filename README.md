@@ -35,6 +35,6 @@ Welcome to my portfolio! I am a second-year student at JDCOE, Nagpur, passionate
 - 📧 Email: [gajbharsn@jdcoem.ac.in]
 - 💼 LinkedIn: [https://www.linkedin.com/in/sagar-gajbhar-032068310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 - 🌐 Portfolio Website: [https://my-portfolio-dhm3c9ifw-sagar-navnath-gajbhar-s-projects.vercel.app]
-- 🐙 GitHub: [Sagar1566]
+- 🐙 GitHub: [https://github.com/Sagar1566]
 
 Feel free to explore my projects and reach out for collaborations!
